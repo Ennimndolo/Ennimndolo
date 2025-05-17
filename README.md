@@ -1,6 +1,6 @@
 👋 Hi, I’m @Ennimndolo
   👀 I’m interested in learning latest web development frameworks such as React.
- 🌱 I’m currently learning at MUBAS
+ 🌱
  💞️ I’m looking forward to knowing how can i best use my computer to succeed in programming 📫 ennimndolo@gmail.com is my email
 
 <!---
